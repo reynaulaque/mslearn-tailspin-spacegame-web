@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/meryuc/SpaceGame-web-Pipeline/_apis/build/status/reynaulaque.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/meryuc/SpaceGame-web-Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
